@@ -42,6 +42,7 @@ msbuild.wrn
 *.json
 !appsettings.json
 !appsettings.*.json
+DB_Store/
 
 # Logs
 logs/
